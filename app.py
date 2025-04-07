@@ -39,7 +39,7 @@ def load_pdf_and_build_chain(pdf_path):
         retriever = db.as_retriever()
 
         # Load FLAN-T5 model
-        model_name = "google/flan-t5-large"
+        model_name = "declare-lab/flan-alpaca-base"
         tokenizer = AutoTokenizer.from_pretrained(model_name)
         model = AutoModelForSeq2SeqLM.from_pretrained(model_name)
 
