@@ -23,6 +23,11 @@ This project allows you to **chat with the contents of any PDF** using a powerfu
 
 ## 🚀 Demo
 
+
+
+https://github.com/user-attachments/assets/e41a5e45-a69b-4e18-b6dd-f70b07448e59
+
+
 ![Gradio UI Screenshot](image.png)
 
 ---
